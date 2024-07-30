@@ -13,9 +13,9 @@ io.gitlab.adhami3310.Impression                # Impression
 
 # ------------------------------------------- // Social
 # org.signal.Signal                            # Signal
-# com.discordapp.Discord                       # Discord
+com.discordapp.Discord                       # Discord
 # dev.vencord.Vesktop                          # Vesktop
-io.github.spacingbat3.webcord                  # Webcord
+# io.github.spacingbat3.webcord                  # Webcord
 
 # ------------------------------------------- // Productivity
 # md.obsidian.Obsidian                         # Obsidian
