@@ -225,6 +225,19 @@ For more information, visit [prasanthrangan/hyde-themes](https://github.com/pras
 
 </div>
 
+## Workspaces
+
+<div align="center">
+
+| Workspace | Monitor |
+| :--- | :--- |
+|1|1|
+|2|1|
+|3|1|
+|4|1|
+|5|2|
+|6|2|
+
 <div align="right">
   <br>
   <a href="#-design-by-t2"><kbd> <br> 🡅 <br> </kbd></a>
