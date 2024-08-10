@@ -21,6 +21,7 @@
   <a href="#themes"><kbd> <br> Themes <br> </kbd></a>&ensp;&ensp;
   <a href="#styles"><kbd> <br> Styles <br> </kbd></a>&ensp;&ensp;
   <a href="#keybindings"><kbd> <br> Keybindings <br> </kbd></a>&ensp;&ensp;
+  <a href="#workspaces"><kbd> <br> Workspaces <br> </kbd></a>&ensp;&ensp;
   <a href="https://www.youtube.com/watch?v=2rWqdKU1vu8&list=PLt8rU_ebLsc5yEHUVsAQTqokIBMtx3RFY&index=1"><kbd> <br> Youtube <br> </kbd></a>&ensp;&ensp;
   <a href="https://github.com/prasanthrangan/hyprdots/wiki"><kbd> <br> Wiki <br> </kbd></a>&ensp;&ensp;
   <a href="https://discord.gg/qWehcFJxPa"><kbd> <br> Discord <br> </kbd></a>
